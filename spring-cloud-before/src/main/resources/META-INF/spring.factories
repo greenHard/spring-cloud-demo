@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+  com.rongshu.springcloudbefore.SpringCloudBeforeApplication.MyPropertySourceLocator
